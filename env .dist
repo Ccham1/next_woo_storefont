@@ -1,0 +1,13 @@
+BASEURL=https://wp.doamin.com/
+WOO_API_BASE_URL=wp-json/wc/v3/
+WOO_CUSTOMER_KEY=YOUR_CUSTOMER_KEY
+WOO_SECERT_KEY=YOUR_SECERT
+WC_PRODUCT_BASE=/product/
+WC_CATEGORY_BASE=/category/
+WC_PRODUCT_BY_SLUG=products?slug=
+
+/* wordpress */
+WP_API_BASE_URL=wp-json/wp/v2/
+WP_PAGE_BASE=/pages/
+
+wp-json/wc/v3/products?slug=hat
